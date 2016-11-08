@@ -35,4 +35,7 @@ for (let i = 0; i < 10; i++) {
   module.exports.add( getFakeName(), getFakeTweet() );
 }
 
-console.log(data);
+// add('Larry', 'This exercise is #fun!')
+// console.log(list())
+// console.log(find({'name': 'Larry'}))
+
